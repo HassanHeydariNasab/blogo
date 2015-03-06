@@ -5,4 +5,4 @@ date:   2015-03-06 16:50:32
 categories: projectoj
 ---
 
-Mi pensis ke kiel mi povas proponi miaj sxotokupo al aliaj ke gxi estas kiam vidable .
+Mi pensis ke kiel mi povas proponi miaj ŝatokupoj al aliaj ke ĝi estas kiam vidable .
