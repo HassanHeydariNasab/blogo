@@ -6,4 +6,8 @@ categories: projectoj
 ---
 
 Mi pensis ke kiel mi povas proponi miaj ŝatokupoj al aliaj ke ĝi estas kiam vidable .
-عجب
+kaj Helianto naskiĝis :)
+Ĝi filtras proponoj laŭ lando kaj religio .
+Mi nun programas Helianto per Django on OpenShift .
+
+http://djangoproj-altajceloj.rhcloud.com
