@@ -10,4 +10,4 @@ kaj Helianto naskiĝis :)
 Ĝi filtras proponoj laŭ lando kaj religio .
 Mi nun programas Helianto per Django on OpenShift .
 
-http://djangoproj-altajceloj.rhcloud.com
+(djangoproj-altajceloj.rhcloud.com](http://djangoproj-altajceloj.rhcloud.com)
