@@ -9,5 +9,4 @@ categories: aliaj
 {% highlight python %}
 print 'saluton mondo !'
 {% endhighlight %}
-
-
+😮😹😸😻👭👬👫👪
