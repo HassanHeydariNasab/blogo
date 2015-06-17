@@ -1,7 +1,7 @@
 # Site settings
 title: HSN6
 email: hsn6@openmailbox.org
-description: mia persona blogo ke gxi temas mia personajn
+description: mia persona blogo ke gxi temas miajn personajn .
 baseurl: "/blogo" # the subpath of your site, e.g. /blog/
 url: "http://hassanheydarinasab.github.io/blogo" # the base hostname & protocol for your site
 github_username:  HassanHeydariNasab
