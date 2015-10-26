@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "Mia nova projecto : Helianto"
+title:  "Mia nova projecto : Mutacio"
 date:   2015-03-06 16:50:32
 categories: projectoj
 ---
 
-Mi pensis ke kiel mi povas proponi miaj ŝatokupojn al aliaj ke ĝi estas kiam vidable .  
-kaj Helianto naskiĝis :)  
-Ĝi filtras proponojn laŭ lando kaj religio .  
-Mi nun programas Helianto-n per Django OpenShift-e .
+Mi pensis ke kiel mi povas proponi miaj ŝatokupojn al aliaj homoj ke ĝi vidablas por ĉiam.
+la homoj povos sperti novaĵoj.
+kaj "Mutacio" naskiĝis :)  
+Ĝi filtras proponojn laŭ lingvo.  
+Mi nun programas Mutacio-n per Django OpenShift-e.
 
-[djangoproj-altajceloj.rhcloud.com](http://djangoproj-altajceloj.rhcloud.com)
+[mutacio.com](http://mutacio.com)
