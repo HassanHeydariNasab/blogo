@@ -7,7 +7,7 @@ categories: poezio
 
 Jen de miaj unuaj poezioj Esperante:
 
-
+***
 
 Malaperis la suno
 
@@ -17,7 +17,7 @@ finu vian laboron
 
 disdoniĝis dormfaruno
 
-
+---
 
 lasu la okupojn
 
@@ -27,7 +27,7 @@ silentas la sonoj
 
 mallumu la lumojn
 
-
+---
 
 dormis la hirundoj
 
@@ -37,7 +37,7 @@ vico de duonmondo
 
 marŝas la sekundoj
 
-
+---
 
 kisu afabl' karulojn
 
