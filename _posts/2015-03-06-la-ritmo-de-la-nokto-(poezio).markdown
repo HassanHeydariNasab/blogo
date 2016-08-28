@@ -8,6 +8,7 @@ categories: poezio
 Jen de miaj unuaj poezioj Esperante:
 
 
+
 Malaperis la suno
 
 kaj aperis la luno
@@ -36,7 +37,12 @@ vico de duonmondo
 
 marŝas la sekundoj
 
+
+
 kisu afabl' karulojn
+
 respektu la regulojn
+
 kuŝu kun kunuloj
+
 fermu viajn okulojn
