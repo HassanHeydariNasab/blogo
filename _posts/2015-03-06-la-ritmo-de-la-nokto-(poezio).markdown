@@ -1,5 +1,11 @@
-Jen de miaj unuaj poezioj Esperante:
+---
+layout: post
+title:  "La ritmo de la nokto"
+date:   2016-08-28 18:00:00
+categories: poezio
+---
 
+Jen de miaj unuaj poezioj Esperante:
 
 Malaperis la suno
 kaj aperis la luno
