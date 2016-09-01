@@ -25,7 +25,7 @@ dormigu la pupojn
 
 silentas la sonoj
 
-mallumu la lumojn
+mallumigu la lumojn
 
 ---
 
@@ -39,7 +39,7 @@ marŝas la sekundoj
 
 ---
 
-kisu afabl' karulojn
+kisu afable karulojn
 
 respektu la regulojn
 
