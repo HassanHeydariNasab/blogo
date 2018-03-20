@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Trancxilo de morto"
+title: "داس مرگ"
 date: 2017-03-20 19:14:00 
 categories: rakonto
 ---
