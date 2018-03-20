@@ -1,5 +1,6 @@
 ---
-layout: post title: "Trancxilo de morto"
+layout: post
+title: "Trancxilo de morto"
 date: 2017-03-20 19:14:00 
 categories: rakonto
 ---
