@@ -12,4 +12,4 @@ markdown: kramdown
 author:
   name:'HSN6'
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
