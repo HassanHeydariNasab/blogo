@@ -8,13 +8,12 @@ permalink: /pri/
 
 Mia alnomo estas HSN6. tio ne estas tial ke mia nomo estas Hasan!
 
-<div dir="rtl">
-
-## فارسی
-
+<h2 dir="rtl">
+فارسی
+</h2>
+<p dir="rtl">
 نام مستعارم HSN6 است؛ البته نه به خاطر نامم که حسن است!
-
-</div>
+</p>
 
 ## English
 
