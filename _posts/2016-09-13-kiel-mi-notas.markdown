@@ -5,9 +5,9 @@ date:   2016-09-13 05:13:00
 categories: artikolo
 ---
 
-Se vi ankoraŭ ne notas en via kajereto, eble vi por noti, uzas aplikaĵojn kiel Evernote, OneNote, Google Keep, Simple Note ktp je via inteligenta-telefono. Ĉi-tiuj sonas bone, precipe se ili havas per-interretan sinkronigon kaj ili estas plursistema.
+Se vi ankoraŭ ne notas en via kajereto, eble vi por noti, uzas aplikaĵojn kiel Evernote, OneNote, Google Keep, Simple Note ktp je via inteligenta-telefono. ĉi tiuj sonas bone, precipe se ili havas per-interretan sinkronigon kaj ili estas plursistema.
 
-Sed atendu momente! Ĉu vi konas pli simplan manieron? rigardu vian poston! ĉu vi memoras la retpoŝton?
+Sed atendu momente! ĉu vi konas pli simplan manieron? rigardu vian poston! ĉu vi memoras la retpoŝton?
 
 La retpoŝtserviloj havas kapablon por konservado de la malnetoj. vi povas uzi retpoŝtilojn por atingi viajn notojn trans la diversaj aparatoj. mi uzas "Mozilla Thunderbird"-n je la komputilo kaj "K-9 Mail"-n je la Android. nun kiuj estis parolanta pri la plursistemeco?
 
