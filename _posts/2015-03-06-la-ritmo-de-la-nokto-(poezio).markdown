@@ -5,7 +5,7 @@ date:   2016-08-28 18:00:00
 categories: poezio
 ---
 
-Malaperis la suno<br>
+malaperis la suno<br>
 kaj aperis la luno<br>
 finu vian laboron<br>
 disdoniĝis dormfaruno
