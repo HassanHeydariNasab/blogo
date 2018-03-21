@@ -3,7 +3,7 @@ title: وبنوشت حسن حیدری نسب
 email: hsn6@openmailbox.org
 description: وبلاگ، بلاگ، وبنوشت یا هر چی که بهش می‌گن!
 baseurl: "/blogo" # the subpath of your site, e.g. /blog/
-url: "http://hassanheydarinasab.github.io/blogo" # the base hostname & protocol for your site
+url: "http://hassanheydarinasab.github.io" # the base hostname & protocol for your site
 github_username:  HassanHeydariNasab
 
 # Build settings
