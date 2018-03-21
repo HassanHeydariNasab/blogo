@@ -5,7 +5,7 @@ date: 2016-10-17 17:54:00
 categories: poezio
 ---
 
-<div style={p{text-indent: 0px}}>
+<div style="text-indent: 0px">
 Ni decidis plani planeton  
 iri semajnfine planedon
 
