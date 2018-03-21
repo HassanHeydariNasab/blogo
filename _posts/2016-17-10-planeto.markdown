@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Planeto"
-date:   2018-03-21 14:28:00
+title: "Planeto"
+date: 2016-10-17 17:54:00
 categories: poezio
 ---
 
