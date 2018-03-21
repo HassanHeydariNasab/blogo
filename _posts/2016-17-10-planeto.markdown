@@ -5,7 +5,12 @@ date: 2016-10-17 17:54:00
 categories: poezio
 ---
 
-<div style="text-indent: 0px">
+<style>
+  p {
+    text-indent: 0px;
+  }
+</style>
+
 Ni decidis plani planeton  
 iri semajnfine planedon
 
@@ -29,4 +34,3 @@ ni decidis forlasi ilin"
 
 La dolarojn ni prenis sed  
 per ni solviĝas ĉiu ted'
-</div>
