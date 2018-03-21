@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "La dudeka renkonto"
-date:   2016-08-28 18:00:00
+date:   2016-10-08 12:06:00
 categories: rakonto
 ---
 
