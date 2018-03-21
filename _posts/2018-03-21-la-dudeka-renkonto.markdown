@@ -10,7 +10,7 @@ _La ŝerca rakonteto inspirita el [Renkontoj kun Diferenculoj](http://verkoj.com
 ## Sinjoro Alfabeto
 
 ### Temoj:
-__diverceco de temoj, malkutima agado, psika malsano, sufero pro rememoraĵoj, kontraŭvola urini, negativaj stereotipoj, perforto__
+**diverceco de temoj, malkutima agado, psika malsano, sufero pro rememoraĵoj, kontraŭvola urini, negativaj stereotipoj, perforto**
 
 Sinjoro Alfabeto estas teroristo. li estis soldato en Sirio dum du jaroj. jam li revenis al sia lando kaj ekmortigis.
 
