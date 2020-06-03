@@ -7,7 +7,7 @@ categories: programming
 
 I can't remember when and why I decided to write my own router for reactJS. I want to share my code with you:
 
-1 - Map url to component
+**1 - Map url to component**
 
 url_regex cannot be used as key directly; so I use arbitrary name as key.
 
@@ -31,7 +31,7 @@ const routes = {
 };
 ```
 
-2 - Match url and find route's name and route's props
+**2 - Match url and find route's name and route's props**
 
 Use regex match group for props.
 
@@ -52,7 +52,7 @@ function processed_url(url) {
 }
 ```
 
-3 - Navigate and store props
+3** - Navigate and store props**
 
 Navigate without page refreshes. Also store route's props in order to pass it to the component.
 
@@ -64,7 +64,7 @@ export function navigate(url) {
 }
 ```
 
-4 - Render the component
+**4 - Render the component**
 
 Call `navigate` for the first time in order to set route's name and route's props.
 Also you can call `navigate` anywhere in your code and enjoy!
