@@ -1,6 +1,6 @@
 # Site settings
 title: وبنوشت حسن حیدری نسب
-email: hsn6@openmailbox.org
+email: hsn6@tuta.io
 description: وبلاگ، بلاگ، وبنوشت یا هر چی که بهش می‌گن!
 baseurl: "/blogo" # the subpath of your site, e.g. /blog/
 url: "http://hassanheydarinasab.github.io" # the base hostname & protocol for your site
