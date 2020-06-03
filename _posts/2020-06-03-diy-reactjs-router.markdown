@@ -52,7 +52,7 @@ function processed_url(url) {
 }
 ```
 
-3** - Navigate and store props**
+**3 - Navigate and store props**
 
 Navigate without page refreshes. Also store route's props in order to pass it to the component.
 
